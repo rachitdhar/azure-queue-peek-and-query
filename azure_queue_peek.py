@@ -54,7 +54,7 @@ class QueueViewerApp:
         output_frame = tk.Frame(root)
         output_frame.grid(row=1, column=0, columnspan=7, padx=10, pady=10, sticky='nsew')
 
-        self.output_area = ScrolledText(output_frame, width=150, height=30, wrap='none')
+        self.output_area = ScrolledText(output_frame, width=150, height=20, wrap='none')
         self.output_area.grid(row=0, column=0, sticky='nsew')
         
         x_scroll = Scrollbar(output_frame, orient='horizontal', command=self.output_area.xview)
