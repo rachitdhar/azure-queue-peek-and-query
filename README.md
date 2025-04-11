@@ -11,4 +11,4 @@ An application to peek messages from Azure Service Bus queues, and query the res
 
 ## Application UI
 
-![image](https://github.com/user-attachments/assets/a3314290-d8ad-4081-af8b-1254b3c32d1b)
+![image](https://github.com/user-attachments/assets/34bc2a44-a71d-4836-8f1e-c71943bd3223)
