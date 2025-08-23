@@ -5,6 +5,7 @@ An application to peek messages from Azure Service Bus queues, and query the res
 
 - Type the queue-name, and choose the environment (corresponding to the service bus connection strings added in the appsettings.json)
 - Choose to peek from either the queue or the dead-letter queue
+- Ability to set a sequence number range to retrieve messages for
 - Choose to view either the full message column or just the truncated form of it
 - Can export the messages peeked as an excel file
 - Can query the peeked messages using an SQL language (DuckDB SQL syntax: https://duckdb.org/docs/stable/sql/introduction.html)
@@ -16,4 +17,5 @@ An application to peek messages from Azure Service Bus queues, and query the res
 
 ## Application UI
 
-![image](https://github.com/user-attachments/assets/34bc2a44-a71d-4836-8f1e-c71943bd3223)
+<img width="1548" height="749" alt="image" src="https://github.com/user-attachments/assets/f3bcc436-ce87-4057-baec-2051ab219545" />
+
