@@ -1,4 +1,4 @@
-# azure-queue-peek-and-query
+# AzureQueueViewer
 An application to peek messages from Azure Service Bus queues, and query the resulting table
 
 ## Features
